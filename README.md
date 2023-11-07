@@ -61,4 +61,3 @@ chosen as the deadlock victim. Rerun the transaction.
 ```
 ## RESULT:
 Thus the program for the simulation of deadlock has been executed successfully.
-
